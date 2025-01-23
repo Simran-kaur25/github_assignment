@@ -1,0 +1,14 @@
+# Ignore all .log files
+*.log
+
+# Ignore the specific file `file2.txt`
+file2.txt
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore all .tmp files
+*.tmp
+
+# Ignore all files in the temp directory (but not temp itself)
+temp/*
